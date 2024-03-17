@@ -11,4 +11,4 @@ XTor Error : Found! > Detect Unkown Error.
 XTor Reason: File is not a torrent! > file not is torrent.
 XTor Completed > Download all file completed.
 XTor Downloading > Task progress Downloading state Reported.
-
+!
